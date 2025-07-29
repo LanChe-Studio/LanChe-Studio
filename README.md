@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 本人只会一点Python，所以自己的项目一定是Python100%。可以的话，请给Python Flash Tools提交lssues，或者是fork仓库。  
-兽人开发者永不当Python的奴隶，只会Python就这样叭。  
+猜你想搜：Python Flash Tools（https://github.com/LanChe-Studio/python-flash-tools）
